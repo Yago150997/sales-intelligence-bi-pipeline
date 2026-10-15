@@ -2,7 +2,7 @@
 
 Dashboard executivo focado em análise de receita, margens operacionais e eficiência de canais de aquisição para modelos de receita recorrente e serviços.
 
-![Dashboard Preview](dashboard_screenshot.png)
+<img width="1122" height="632" alt="image" src="https://github.com/user-attachments/assets/0eadf8a9-1897-456c-8aa1-489fd6f4312a" />
 
 ## 🎯 Problema de Negócio
 Empresas em crescimento frequentemente enfrentam dispersão de dados transacionais entre gateways de pagamento e planilhas, gerando:
