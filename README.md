@@ -29,11 +29,3 @@ Empresas em crescimento frequentemente enfrentam dispersão de dados transaciona
 * **Concentração de Receita:** Identificação de que o *Plano Enterprise* responde pela maior fatia de faturamento com margem superior a 86%.
 * **Eficiência de Canais:** Canais *Outbound* e *Orgânico* lideram em volume financeiro, enquanto vendas diretas não rastreadas foram isoladas para saneamento cadastral.
 * **Margem vs. Metas:** Acompanhamento visual de desvios nas taxas de cancelamento com alertas condicionais.
-
-## 💻 Como Reproduzir
-```bash
-# Clone o repositório
-git clone [https://github.com/seu-usuario/powerbi-revenue-analytics.git](https://github.com/seu-usuario/powerbi-revenue-analytics.git)
-
-# Execute o pipeline
-python etl_pipeline.py
