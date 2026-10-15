@@ -29,3 +29,8 @@ Empresas em crescimento frequentemente enfrentam dispersão de dados transaciona
 * **Concentração de Receita:** Identificação de que o *Plano Enterprise* responde pela maior fatia de faturamento com margem superior a 86%.
 * **Eficiência de Canais:** Canais *Outbound* e *Orgânico* lideram em volume financeiro, enquanto vendas diretas não rastreadas foram isoladas para saneamento cadastral.
 * **Margem vs. Metas:** Acompanhamento visual de desvios nas taxas de cancelamento com alertas condicionais.
+
+---
+### 💼 Need a customized analytics pipeline or dashboard?
+I am available for freelance projects involving Python data automation and Power BI modeling.  
+👉 [Order directly or request a custom quote on Fiverr](http://www.fiverr.com/s/0DD1KPr)
